@@ -1,0 +1,13 @@
+body {
+    background-color: #2c0431;
+    color: rgb(26, 65, 150);
+    font-family: sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+canvas {
+    background-color: #000;
+    border: 2px solid rgb(250, 130, 190);
+}
